@@ -4,6 +4,7 @@ Escribe un programa en Python que cuente cuántas vocales hay en una frase ingre
 
 Palabra=input("Hola, escribe una palara: " )
 
+
 a= Palabra.count('a')
 e=Palabra.count('e')
 i=Palabra.count('i')
